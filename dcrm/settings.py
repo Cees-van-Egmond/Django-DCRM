@@ -69,7 +69,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'dcrm_table',
         'USER': 'root',
-        'PASSWORD': 'Mxstream12',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '3306',
     }
